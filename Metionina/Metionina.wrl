@@ -1,0 +1,876 @@
+#VRML V2.0 utf8
+WorldInfo {
+title "test"
+info [ "By Avogadro" ]
+}
+NavigationInfo {
+type ["EXAMINE","ANY"]
+headlight TRUE
+visibilityLimit 0.0
+speed 1.0
+}
+DEF DefaultView Viewpoint {
+position 0 0 57.558
+description "Default view"
+fieldOfView 0.785398
+}
+Transform {
+	translation	0.044996	-0.10846	0.72931
+	scale  1 0.37725 1
+	rotation 0 0 0.86602 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.60842	-0.48572	0.72931
+	scale  1 0.37725 1
+	rotation 0 0 0.86602 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	0.57317	-0.20188	0.77287
+	scale  1 0.3155 1
+	rotation 0 0 -0.86603 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	0.7167	0.046729	0.68575
+	scale  1 0.3155 1
+	rotation 0 0 -0.86603 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	1.0963	-0.50388	0.77287
+	scale  1 0.2885 1
+	rotation 0 0 -0.86603 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	1.2398	-0.25526	0.68575
+	scale  1 0.2885 1
+	rotation 0 0 -0.86603 2.0944
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	0.3717	0.42817	0.72931
+	scale  1 0.348 1
+	rotation 1 0 0 0
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	0.37169	1.0972	0.72931
+	scale  1 0.321 1
+	rotation 1 0 0 0
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.2246	-0.42707	0.72931
+	scale  1 0.38075 1
+	rotation 0 0 0.76041 0.86395
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.8037	0.067474	0.72931
+	scale  1 0.38075 1
+	rotation 0 0 0.76041 0.86395
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.95468	-0.88727	1.0322
+	scale  1 0.37075 1
+	rotation 0.81694 0 0.05276 2.1825
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.99262	-1.3002	1.6196
+	scale  1 0.34825 1
+	rotation 0.81694 0 0.05276 2.1825
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.05	0.05	1
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.95219	-0.86017	0.46536
+	scale  1 0.32325 1
+	rotation -0.81654 0 0.052815 2.1832
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.98158	-1.1801	0.010959
+	scale  1 0.23325 1
+	rotation -0.81654 0 0.052815 2.1832
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.3064	0.26083	0.41849
+	scale  1 0.38075 1
+	rotation -0.81635 0 0.55993 1.7129
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.7328	0.15299	-0.20316
+	scale  1 0.38075 1
+	rotation -0.81635 0 0.55993 1.7129
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.2741	0.2686	0.9932
+	scale  1 0.32325 1
+	rotation 0.81635 0 0.55964 1.714
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.5856	0.18916	1.4475
+	scale  1 0.23325 1
+	rotation 0.81635 0 0.55964 1.714
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.9772	0.61645	0.72931
+	scale  1 0.32325 1
+	rotation 0 0 -0.35898 0.36717
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.7774	1.1359	0.72931
+	scale  1 0.23325 1
+	rotation 0 0 -0.35898 0.36717
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-3.2853	0.38888	-0.51399
+	scale  1 0.44625 1
+	rotation 0 0 0.76041 0.86395
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-3.9754	0.97825	-0.51399
+	scale  1 0.46125 1
+	rotation 0 0 0.76041 0.86395
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.7	0.7	0
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.7651	0.14521	-0.77787
+	scale  1 0.32325 1
+	rotation -0.81635 0 -0.55964 1.4276
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.4537	0.22465	-1.2322
+	scale  1 0.23325 1
+	rotation -0.81635 0 -0.55964 1.4276
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-3.062	-0.20264	-0.51399
+	scale  1 0.32325 1
+	rotation 0 0 0.35898 2.7744
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-3.2618	-0.72204	-0.51399
+	scale  1 0.23325 1
+	rotation 0 0 0.35898 2.7744
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	0.63542	1.4943	0.72931
+	scale  1 0.2745 1
+	rotation 0 0 -0.96078 1.2898
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	1.1024	1.6291	0.72931
+	scale  1 0.2115 1
+	rotation 0 0 -0.96078 1.2898
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.5135	1.1364	-0.91103
+	scale  1 0.46125 1
+	rotation -0.86079 0 0.40621 1.8825
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.7	0.7	0
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.8821	0.85807	-1.6922
+	scale  1 0.44625 1
+	rotation -0.86079 0 0.40621 1.8825
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.3267	0.89755	-2.1403
+	scale  1 0.32325 1
+	rotation -0.19775 0 0.81448 0.99386
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.78	1.2011	-2.2503
+	scale  1 0.23325 1
+	rotation -0.19775 0 0.81448 0.99386
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.849	0.75751	-2.3155
+	scale  1 0.32325 1
+	rotation -0.73975 0 -0.66346 1.4583
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.4797	0.81998	-2.7271
+	scale  1 0.23325 1
+	rotation -0.73975 0 -0.66346 1.4583
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.1459	0.40965	-2.0515
+	scale  1 0.32325 1
+	rotation 0.076676 0 0.25506 2.872
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.2878	-0.12675	-2.0089
+	scale  1 0.23325 1
+	rotation 0.076676 0 0.25506 2.872
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.261	-1.6446	1.9042
+	scale  1 0.28875 1
+	rotation 0.00042157 0 0.8659 2.0947
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.05	0.05	1
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.7026	-1.8997	1.9044
+	scale  1 0.22125 1
+	rotation 0.00042157 0 0.8659 2.0947
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.80872	-1.7058	1.8904
+	scale  1 0.28875 1
+	rotation -0.047343 0 -0.7005 2.3633
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.05	0.05	1
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.45147	-2.069	1.8663
+	scale  1 0.22125 1
+	rotation -0.047343 0 -0.7005 2.3633
+	children Shape {
+		geometry Cylinder {
+			radius	0.1
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	0.3717	0.08017	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.51
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.93512	-0.67435	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.51
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.0932	0.31475	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.51
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.946	0.099067	-0.51399
+	children Shape {
+		geometry Sphere {
+			radius	0.51
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	1.4179	-0.52382	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.456
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	0.37168	1.4182	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.456
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	1	0.05	0.05
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.3262	1.2778	-0.51399
+	children Shape {
+		geometry Sphere {
+			radius	0.54
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.7	0.7	0
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.0634	0.72123	-2.0763
+	children Shape {
+		geometry Sphere {
+			radius	0.51
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.4	0.4	0.4
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.011	-1.5002	1.9041
+	children Shape {
+		geometry Sphere {
+			radius	0.465
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.05	0.05	1
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.9939	-1.3142	-0.1795
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.7161	0.15587	1.6379
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.6937	1.3536	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-2.3231	0.25795	-1.4226
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-3.3455	-0.93975	-0.51399
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	1.3056	1.6877	0.72931
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.9699	1.3283	-2.2964
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-4.325	0.84616	-2.8997
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-5.3473	-0.35157	-1.991
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-1.8942	-2.0104	1.9045
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
+Transform {
+	translation	-0.29648	-2.2265	1.8558
+	children Shape {
+		geometry Sphere {
+			radius	0.33
+		}
+		appearance Appearance {
+			material Material {
+				diffuseColor	0.75	0.75	0.75
+			}
+		}
+	}
+}
